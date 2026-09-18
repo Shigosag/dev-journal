@@ -100,3 +100,6 @@ Using 'as const' creates deeply readonly object and tuple literals.
 ### 34. docs: ts unknown vs any note
 'unknown' enforces type checking before operations, whereas 'any' disables safety.
 
+### 35. docs: ts satisfies operator note
+The 'satisfies' operator validates type compliance without widening literal types.
+
