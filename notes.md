@@ -43,3 +43,6 @@ Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 ### 15. docs: postgres upsert conflict note
 'ON CONFLICT (id) DO UPDATE' avoids duplicate key violations cleanly.
 
+### 16. docs: linux find large files command
+'find / -type f -size +100M' quickly locates large files consuming storage.
+
