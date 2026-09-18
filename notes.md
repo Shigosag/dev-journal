@@ -178,3 +178,6 @@ Use Redis Hashes to store structured objects efficiently with less memory overhe
 ### 60. docs: redis ttl command note
 'EXPIRE key seconds' sets time-to-live for cache invalidation.
 
+### 61. docs: nginx reverse proxy note
+'proxy_pass http://localhost:3000' routes external requests to backend services.
+
