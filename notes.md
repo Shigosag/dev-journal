@@ -61,3 +61,6 @@ Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 ### 21. docs: http status 429 rate limit
 Status 429 indicates rate limiting; check 'Retry-After' response header.
 
+### 22. docs: http idempotent methods note
+GET, PUT, and DELETE are idempotent; POST and PATCH are typically non-idempotent.
+
