@@ -163,3 +163,6 @@ Use '' instead of backticks for clean, nestable command substitution.
 ### 55. docs: bash alias persistence
 Store custom aliases in '~/.bashrc' or '~/.zshrc' to persist across terminal sessions.
 
+### 56. docs: redis eviction policies note
+'allkeys-lru' evicts least recently used keys when memory limits are reached.
+
