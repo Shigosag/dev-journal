@@ -106,3 +106,6 @@ The 'satisfies' operator validates type compliance without widening literal type
 ### 36. docs: react useId hook note
 'useId' generates unique IDs for accessibility attributes across SSR and client.
 
+### 37. docs: react memoization rule
+Avoid premature optimization with 'useMemo'; profile renders before memoizing.
+
