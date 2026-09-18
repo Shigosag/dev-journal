@@ -250,3 +250,6 @@ Use 'curl -H "Authorization: Bearer <token>"' for bearer token authentication.
 ### 84. docs: curl send json payload
 Use 'curl -X POST -H "Content-Type: application/json" -d '{"key":"val"}''.
 
+### 85. docs: curl inspect response headers
+Use 'curl -I <url>' to issue HEAD requests and view HTTP headers only.
+
