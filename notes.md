@@ -280,3 +280,6 @@ Use SameSite=Strict cookies or CSRF tokens to protect state-changing requests.
 ### 94. docs: security bcrypt salt rounds
 10-12 salt rounds in bcrypt provide a strong security/performance tradeoff.
 
+### 95. docs: security env variables note
+Never check '.env' files into version control; always use '.env.example'.
+
