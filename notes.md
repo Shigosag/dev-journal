@@ -304,3 +304,6 @@ Debounce triggers after inactivity; throttle triggers at capped time intervals.
 ### 102. docs: perf lazy load images note
 Use 'loading="lazy"' attribute on image tags to defer off-screen asset loading.
 
+### 103. docs: perf virtualized lists note
+Render only visible viewport items using virtualization for arrays with 10k+ rows.
+
