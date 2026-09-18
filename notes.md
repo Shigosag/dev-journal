@@ -40,3 +40,6 @@ Use PgBouncer to manage high-frequency database connections efficiently.
 ### 14. docs: postgres jsonb containment note
 Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 
+### 15. docs: postgres upsert conflict note
+'ON CONFLICT (id) DO UPDATE' avoids duplicate key violations cleanly.
+
