@@ -175,3 +175,6 @@ Pipelining bundles multiple commands to reduce round-trip network latency.
 ### 59. docs: redis hashes vs strings
 Use Redis Hashes to store structured objects efficiently with less memory overhead.
 
+### 60. docs: redis ttl command note
+'EXPIRE key seconds' sets time-to-live for cache invalidation.
+
