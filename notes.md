@@ -112,3 +112,6 @@ Avoid premature optimization with 'useMemo'; profile renders before memoizing.
 ### 38. docs: react cleanup effect note
 Always return a cleanup function in 'useEffect' for subscriptions and timers.
 
+### 39. docs: react synthetic events note
+React synthetic events wrap native events to provide cross-browser consistency.
+
