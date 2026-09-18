@@ -274,3 +274,6 @@ Never concatenate raw user input into SQL queries or raw HTML templates.
 ### 92. docs: security cors configuration
 Explicitly whitelist allowed origins instead of using wildcard '*' with credentials.
 
+### 93. docs: security csrf protection note
+Use SameSite=Strict cookies or CSRF tokens to protect state-changing requests.
+
