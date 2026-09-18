@@ -37,3 +37,6 @@ B-tree indexes are most effective on columns with high cardinality.
 ### 13. docs: postgres connection pooling note
 Use PgBouncer to manage high-frequency database connections efficiently.
 
+### 14. docs: postgres jsonb containment note
+Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
+
