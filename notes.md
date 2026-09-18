@@ -13,3 +13,6 @@ Use 'git stash push -m <msg>' to add clear context to stashed changes.
 ### 5. docs: git log oneline graph
 'git log --oneline --graph --all' outputs a visual ASCII branch tree.
 
+### 6. docs: docker prune dangling images
+'docker image prune' removes untagged dangling images to reclaim disk space.
+
