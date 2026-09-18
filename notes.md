@@ -94,3 +94,6 @@ Using 'as const' creates deeply readonly object and tuple literals.
 ### 32. docs: ts utility type pick note
 'Pick<T, K>' constructs a type by picking specific keys from an existing interface.
 
+### 33. docs: ts utility type omit note
+'Omit<T, K>' removes specified properties from a given type definition.
+
