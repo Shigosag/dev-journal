@@ -82,3 +82,6 @@ HTTP keep-alive reuses existing TCP connections to reduce TLS handshake overhead
 ### 28. docs: js optional chaining note
 Optional chaining '?.' short-circuits gracefully when accessing null or undefined keys.
 
+### 29. docs: js nullish coalescing note
+Use '??' instead of '||' to preserve valid falsy values like 0 and false.
+
