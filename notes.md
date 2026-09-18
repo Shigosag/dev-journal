@@ -28,3 +28,6 @@ Use 'docker logs -f --tail 100 <container>' to stream recent logs.
 ### 10. docs: docker container stop timeout
 'docker stop -t 30 <container>' gives tasks 30 seconds before sending SIGKILL.
 
+### 11. docs: postgres explain analyze note
+'EXPLAIN ANALYZE' executes the query and returns actual runtimes alongside the plan.
+
