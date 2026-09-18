@@ -46,3 +46,6 @@ Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 ### 16. docs: linux find large files command
 'find / -type f -size +100M' quickly locates large files consuming storage.
 
+### 17. docs: linux check open ports note
+'ss -tulpn' lists all listening TCP/UDP sockets with process IDs.
+
