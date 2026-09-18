@@ -34,3 +34,6 @@ Use 'docker logs -f --tail 100 <container>' to stream recent logs.
 ### 12. docs: postgres index selectivity note
 B-tree indexes are most effective on columns with high cardinality.
 
+### 13. docs: postgres connection pooling note
+Use PgBouncer to manage high-frequency database connections efficiently.
+
