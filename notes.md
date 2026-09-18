@@ -265,3 +265,6 @@ Do Not Repeat Yourself: extract common business rules into reusable utilities.
 ### 89. docs: clean code meaningful names
 Name variables for intent rather than type (e.g., 'isActiveUser' over 'flag').
 
+### 90. docs: clean code pure functions note
+Pure functions without side effects are easier to test and parallelize.
+
