@@ -277,3 +277,6 @@ Explicitly whitelist allowed origins instead of using wildcard '*' with credenti
 ### 93. docs: security csrf protection note
 Use SameSite=Strict cookies or CSRF tokens to protect state-changing requests.
 
+### 94. docs: security bcrypt salt rounds
+10-12 salt rounds in bcrypt provide a strong security/performance tradeoff.
+
