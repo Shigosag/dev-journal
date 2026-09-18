@@ -217,3 +217,6 @@ Run applications as non-root user ('USER appuser') to enhance container security
 ### 73. docs: docker healthcheck directive
 Use 'HEALTHCHECK' in Dockerfile to allow orchestrators to detect deadlocks.
 
+### 74. docs: docker buildkit cache note
+Enable 'DOCKER_BUILDKIT=1' to leverage parallel step caching during builds.
+
