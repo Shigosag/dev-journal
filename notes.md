@@ -16,3 +16,6 @@ Use 'git stash push -m <msg>' to add clear context to stashed changes.
 ### 6. docs: docker prune dangling images
 'docker image prune' removes untagged dangling images to reclaim disk space.
 
+### 7. docs: docker tail container logs
+Use 'docker logs -f --tail 100 <container>' to stream recent logs.
+
