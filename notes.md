@@ -97,3 +97,6 @@ Using 'as const' creates deeply readonly object and tuple literals.
 ### 33. docs: ts utility type omit note
 'Omit<T, K>' removes specified properties from a given type definition.
 
+### 34. docs: ts unknown vs any note
+'unknown' enforces type checking before operations, whereas 'any' disables safety.
+
