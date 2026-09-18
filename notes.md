@@ -226,3 +226,6 @@ User-defined bridge networks allow containers to resolve each other by DNS name.
 ### 76. docs: sql foreign key cascade note
 'ON DELETE CASCADE' automatically removes related child records when parent is deleted.
 
+### 77. docs: sql window function note
+'ROW_NUMBER() OVER (PARTITION BY group_id ORDER BY created_at DESC)' ranks grouped rows.
+
