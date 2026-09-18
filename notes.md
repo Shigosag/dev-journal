@@ -19,3 +19,6 @@ Use 'git stash push -m <msg>' to add clear context to stashed changes.
 ### 7. docs: docker tail container logs
 Use 'docker logs -f --tail 100 <container>' to stream recent logs.
 
+### 8. docs: docker compose up build flag
+'docker compose up -d --build' rebuilds containers before launching in daemon mode.
+
