@@ -292,3 +292,6 @@ Always mock external third-party HTTP services in test suites to prevent flakine
 ### 98. docs: testing coverage metrics note
 High test coverage does not guarantee correctness; test edge cases and error paths.
 
+### 99. docs: testing deterministic tests
+Avoid relying on system clock or random state inside automated tests.
+
