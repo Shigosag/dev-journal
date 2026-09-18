@@ -289,3 +289,6 @@ Unit tests verify isolated logic; integration tests verify subsystem interaction
 ### 97. docs: testing mock external calls
 Always mock external third-party HTTP services in test suites to prevent flakiness.
 
+### 98. docs: testing coverage metrics note
+High test coverage does not guarantee correctness; test edge cases and error paths.
+
