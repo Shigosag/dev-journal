@@ -22,3 +22,6 @@ Use 'docker logs -f --tail 100 <container>' to stream recent logs.
 ### 8. docs: docker compose up build flag
 'docker compose up -d --build' rebuilds containers before launching in daemon mode.
 
+### 9. docs: docker inspect ip address
+'docker inspect -f {{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}} <container>' extracts IP.
+
