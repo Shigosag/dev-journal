@@ -220,3 +220,6 @@ Use 'HEALTHCHECK' in Dockerfile to allow orchestrators to detect deadlocks.
 ### 74. docs: docker buildkit cache note
 Enable 'DOCKER_BUILDKIT=1' to leverage parallel step caching during builds.
 
+### 75. docs: docker bridge network note
+User-defined bridge networks allow containers to resolve each other by DNS name.
+
