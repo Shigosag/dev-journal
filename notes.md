@@ -298,3 +298,6 @@ Avoid relying on system clock or random state inside automated tests.
 ### 100. docs: testing test-driven workflow
 Red-Green-Refactor ensures tests are written to validate expected behavior first.
 
+### 101. docs: perf debounce vs throttle note
+Debounce triggers after inactivity; throttle triggers at capped time intervals.
+
