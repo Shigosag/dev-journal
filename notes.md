@@ -109,3 +109,6 @@ The 'satisfies' operator validates type compliance without widening literal type
 ### 37. docs: react memoization rule
 Avoid premature optimization with 'useMemo'; profile renders before memoizing.
 
+### 38. docs: react cleanup effect note
+Always return a cleanup function in 'useEffect' for subscriptions and timers.
+
