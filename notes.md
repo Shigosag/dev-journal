@@ -205,3 +205,6 @@ Terminate SSL at Nginx to offload decryption overhead from backend applications.
 ### 69. docs: git shallow clone note
 'git clone --depth 1' downloads only latest revision, speeding up CI pipeline checkout.
 
+### 70. docs: git diff stat note
+'git diff --stat' shows summary of modified files with inserted/deleted line counts.
+
