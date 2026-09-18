@@ -181,3 +181,6 @@ Use Redis Hashes to store structured objects efficiently with less memory overhe
 ### 61. docs: nginx reverse proxy note
 'proxy_pass http://localhost:3000' routes external requests to backend services.
 
+### 62. docs: nginx gzip compression note
+Enabling 'gzip_comp_level 5' balances CPU compression cost and bandwidth savings.
+
