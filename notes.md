@@ -247,3 +247,6 @@ Pass '-L' to curl to automatically follow 301/302 HTTP redirect responses.
 ### 83. docs: curl pass auth header
 Use 'curl -H "Authorization: Bearer <token>"' for bearer token authentication.
 
+### 84. docs: curl send json payload
+Use 'curl -X POST -H "Content-Type: application/json" -d '{"key":"val"}''.
+
