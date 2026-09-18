@@ -31,3 +31,6 @@ Use 'docker logs -f --tail 100 <container>' to stream recent logs.
 ### 11. docs: postgres explain analyze note
 'EXPLAIN ANALYZE' executes the query and returns actual runtimes alongside the plan.
 
+### 12. docs: postgres index selectivity note
+B-tree indexes are most effective on columns with high cardinality.
+
