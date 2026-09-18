@@ -253,3 +253,6 @@ Use 'curl -X POST -H "Content-Type: application/json" -d '{"key":"val"}''.
 ### 85. docs: curl inspect response headers
 Use 'curl -I <url>' to issue HEAD requests and view HTTP headers only.
 
+### 86. docs: clean code single responsibility
+A class or function should have one, and only one, reason to change.
+
