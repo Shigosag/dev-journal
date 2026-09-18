@@ -79,3 +79,6 @@ HTTP keep-alive reuses existing TCP connections to reduce TLS handshake overhead
 ### 27. docs: js structured clone usage
 'structuredClone()' provides a built-in deep copy mechanism for serializable objects.
 
+### 28. docs: js optional chaining note
+Optional chaining '?.' short-circuits gracefully when accessing null or undefined keys.
+
