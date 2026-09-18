@@ -271,3 +271,6 @@ Pure functions without side effects are easier to test and parallelize.
 ### 91. docs: security sanitize user input
 Never concatenate raw user input into SQL queries or raw HTML templates.
 
+### 92. docs: security cors configuration
+Explicitly whitelist allowed origins instead of using wildcard '*' with credentials.
+
