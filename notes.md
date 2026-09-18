@@ -238,3 +238,6 @@ Common Table Expressions ('WITH cte AS (...)') improve readability of complex su
 ### 80. docs: sql index on foreign keys
 Indexing foreign key columns prevents full table locks during parent updates.
 
+### 81. docs: curl timing metrics note
+Use 'curl -w "%{time_total}" -o /dev/null -s <url>' to benchmark endpoint latency.
+
