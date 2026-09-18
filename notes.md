@@ -169,3 +169,6 @@ Store custom aliases in '~/.bashrc' or '~/.zshrc' to persist across terminal ses
 ### 57. docs: redis pub/sub pattern note
 Redis Pub/Sub provides low-latency messaging but lacks message persistence.
 
+### 58. docs: redis pipelining benefits
+Pipelining bundles multiple commands to reduce round-trip network latency.
+
