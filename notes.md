@@ -232,3 +232,6 @@ User-defined bridge networks allow containers to resolve each other by DNS name.
 ### 78. docs: sql join types note
 INNER JOIN filters non-matching rows, while LEFT JOIN retains all rows from left table.
 
+### 79. docs: sql cte benefits
+Common Table Expressions ('WITH cte AS (...)') improve readability of complex subqueries.
+
