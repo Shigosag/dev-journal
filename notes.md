@@ -256,3 +256,6 @@ Use 'curl -I <url>' to issue HEAD requests and view HTTP headers only.
 ### 86. docs: clean code single responsibility
 A class or function should have one, and only one, reason to change.
 
+### 87. docs: clean code fail fast principle
+Validate input conditions immediately at the entry point of functions.
+
