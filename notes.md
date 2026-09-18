@@ -10,3 +10,6 @@ Use 'git cherry-pick <hash>' to apply a specific commit to your current branch.
 ### 4. docs: git stash with message
 Use 'git stash push -m <msg>' to add clear context to stashed changes.
 
+### 5. docs: git log oneline graph
+'git log --oneline --graph --all' outputs a visual ASCII branch tree.
+
