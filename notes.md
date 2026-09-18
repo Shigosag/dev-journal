@@ -166,3 +166,6 @@ Store custom aliases in '~/.bashrc' or '~/.zshrc' to persist across terminal ses
 ### 56. docs: redis eviction policies note
 'allkeys-lru' evicts least recently used keys when memory limits are reached.
 
+### 57. docs: redis pub/sub pattern note
+Redis Pub/Sub provides low-latency messaging but lacks message persistence.
+
