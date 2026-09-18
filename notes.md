@@ -211,3 +211,6 @@ Terminate SSL at Nginx to offload decryption overhead from backend applications.
 ### 71. docs: docker multi-stage build note
 Multi-stage builds leave compiler toolchains behind, reducing image payload.
 
+### 72. docs: docker non-root user note
+Run applications as non-root user ('USER appuser') to enhance container security.
+
