@@ -58,3 +58,6 @@ Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 ### 20. docs: linux kill process by port note
 'fuser -k 3000/tcp' kills the active process bound to port 3000.
 
+### 21. docs: http status 429 rate limit
+Status 429 indicates rate limiting; check 'Retry-After' response header.
+
