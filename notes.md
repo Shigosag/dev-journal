@@ -229,3 +229,6 @@ User-defined bridge networks allow containers to resolve each other by DNS name.
 ### 77. docs: sql window function note
 'ROW_NUMBER() OVER (PARTITION BY group_id ORDER BY created_at DESC)' ranks grouped rows.
 
+### 78. docs: sql join types note
+INNER JOIN filters non-matching rows, while LEFT JOIN retains all rows from left table.
+
