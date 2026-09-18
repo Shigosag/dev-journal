@@ -160,3 +160,6 @@ Use '' instead of backticks for clean, nestable command substitution.
 ### 54. docs: bash redirection note
 'command > /dev/null 2>&1' silences both standard output and standard error.
 
+### 55. docs: bash alias persistence
+Store custom aliases in '~/.bashrc' or '~/.zshrc' to persist across terminal sessions.
+
