@@ -67,3 +67,6 @@ GET, PUT, and DELETE are idempotent; POST and PATCH are typically non-idempotent
 ### 23. docs: http cache-control directives
 'no-cache' forces validation with origin server, whereas 'no-store' prevents caching entirely.
 
+### 24. docs: http security headers note
+Always configure 'Content-Security-Policy' and 'X-Content-Type-Options: nosniff'.
+
