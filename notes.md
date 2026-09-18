@@ -133,3 +133,6 @@ The cluster module forks worker processes to utilize multi-core CPU architecture
 ### 45. docs: node path resolve note
 'path.resolve()' processes paths from right to left until an absolute path is resolved.
 
+### 46. docs: css box-sizing border-box note
+'box-sizing: border-box' includes padding and border within the specified width/height.
+
