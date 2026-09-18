@@ -121,3 +121,6 @@ Use '<>...</>' syntax to return multiple elements without adding extra DOM nodes
 ### 41. docs: node event loop phases note
 The Node.js event loop runs Timers, Pending Callbacks, Poll, Check, and Close phases.
 
+### 42. docs: node stream backpressure note
+Properly handle the 'drain' event to prevent memory bloat during file streams.
+
