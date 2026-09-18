@@ -145,3 +145,6 @@ The 'gap' property adds uniform spacing between flex items without margin hacks.
 ### 49. docs: css subgrid layout note
 CSS subgrid allows nested grid items to inherit parent row and column tracks.
 
+### 50. docs: css content-visibility note
+'content-visibility: auto' skips rendering off-screen elements for faster page loads.
+
