@@ -295,3 +295,6 @@ High test coverage does not guarantee correctness; test edge cases and error pat
 ### 99. docs: testing deterministic tests
 Avoid relying on system clock or random state inside automated tests.
 
+### 100. docs: testing test-driven workflow
+Red-Green-Refactor ensures tests are written to validate expected behavior first.
+
