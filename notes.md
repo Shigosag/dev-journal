@@ -202,3 +202,6 @@ Terminate SSL at Nginx to offload decryption overhead from backend applications.
 ### 68. docs: git worktree usage note
 'git worktree add' lets you work on multiple branches simultaneously in separate folders.
 
+### 69. docs: git shallow clone note
+'git clone --depth 1' downloads only latest revision, speeding up CI pipeline checkout.
+
