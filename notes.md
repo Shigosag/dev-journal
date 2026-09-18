@@ -52,3 +52,6 @@ Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 ### 18. docs: linux tar archive shortcut
 'tar -czvf archive.tar.gz /path' compresses directory using gzip.
 
+### 19. docs: linux disk usage summary
+'du -sh * | sort -h' shows human-readable disk usage per directory sorted.
+
