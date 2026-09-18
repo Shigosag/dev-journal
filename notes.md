@@ -154,3 +154,6 @@ Use 'set -euo pipefail' at the top of bash scripts for strict error checking.
 ### 52. docs: bash command substitution note
 Use '' instead of backticks for clean, nestable command substitution.
 
+### 53. docs: bash parameter expansion
+'default' provides fallback values for unset or empty shell variables.
+
