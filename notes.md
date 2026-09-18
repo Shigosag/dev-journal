@@ -244,3 +244,6 @@ Use 'curl -w "%{time_total}" -o /dev/null -s <url>' to benchmark endpoint latenc
 ### 82. docs: curl follow redirects note
 Pass '-L' to curl to automatically follow 301/302 HTTP redirect responses.
 
+### 83. docs: curl pass auth header
+Use 'curl -H "Authorization: Bearer <token>"' for bearer token authentication.
+
