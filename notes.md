@@ -130,3 +130,6 @@ Use 'node --inspect' and Chrome DevTools heap snapshots to detect memory leaks.
 ### 44. docs: node cluster module note
 The cluster module forks worker processes to utilize multi-core CPU architectures.
 
+### 45. docs: node path resolve note
+'path.resolve()' processes paths from right to left until an absolute path is resolved.
+
