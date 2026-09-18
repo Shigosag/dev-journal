@@ -184,3 +184,6 @@ Use Redis Hashes to store structured objects efficiently with less memory overhe
 ### 62. docs: nginx gzip compression note
 Enabling 'gzip_comp_level 5' balances CPU compression cost and bandwidth savings.
 
+### 63. docs: nginx worker connections
+Set 'worker_connections' based on system open file limits ('ulimit -n').
+
