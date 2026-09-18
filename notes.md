@@ -172,3 +172,6 @@ Redis Pub/Sub provides low-latency messaging but lacks message persistence.
 ### 58. docs: redis pipelining benefits
 Pipelining bundles multiple commands to reduce round-trip network latency.
 
+### 59. docs: redis hashes vs strings
+Use Redis Hashes to store structured objects efficiently with less memory overhead.
+
