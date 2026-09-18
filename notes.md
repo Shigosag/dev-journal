@@ -151,3 +151,6 @@ CSS subgrid allows nested grid items to inherit parent row and column tracks.
 ### 51. docs: bash script error handling
 Use 'set -euo pipefail' at the top of bash scripts for strict error checking.
 
+### 52. docs: bash command substitution note
+Use '' instead of backticks for clean, nestable command substitution.
+
