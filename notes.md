@@ -115,3 +115,6 @@ Always return a cleanup function in 'useEffect' for subscriptions and timers.
 ### 39. docs: react synthetic events note
 React synthetic events wrap native events to provide cross-browser consistency.
 
+### 40. docs: react fragments shortcut
+Use '<>...</>' syntax to return multiple elements without adding extra DOM nodes.
+
