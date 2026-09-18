@@ -157,3 +157,6 @@ Use '' instead of backticks for clean, nestable command substitution.
 ### 53. docs: bash parameter expansion
 'default' provides fallback values for unset or empty shell variables.
 
+### 54. docs: bash redirection note
+'command > /dev/null 2>&1' silences both standard output and standard error.
+
