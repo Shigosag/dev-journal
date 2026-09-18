@@ -283,3 +283,6 @@ Use SameSite=Strict cookies or CSRF tokens to protect state-changing requests.
 ### 95. docs: security env variables note
 Never check '.env' files into version control; always use '.env.example'.
 
+### 96. docs: testing unit vs integration
+Unit tests verify isolated logic; integration tests verify subsystem interactions.
+
