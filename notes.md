@@ -76,3 +76,6 @@ HTTP keep-alive reuses existing TCP connections to reduce TLS handshake overhead
 ### 26. docs: js promise allSettled note
 'Promise.allSettled' handles multiple async operations without short-circuiting on error.
 
+### 27. docs: js structured clone usage
+'structuredClone()' provides a built-in deep copy mechanism for serializable objects.
+
