@@ -127,3 +127,6 @@ Properly handle the 'drain' event to prevent memory bloat during file streams.
 ### 43. docs: node memory leak debug note
 Use 'node --inspect' and Chrome DevTools heap snapshots to detect memory leaks.
 
+### 44. docs: node cluster module note
+The cluster module forks worker processes to utilize multi-core CPU architectures.
+
