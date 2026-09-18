@@ -148,3 +148,6 @@ CSS subgrid allows nested grid items to inherit parent row and column tracks.
 ### 50. docs: css content-visibility note
 'content-visibility: auto' skips rendering off-screen elements for faster page loads.
 
+### 51. docs: bash script error handling
+Use 'set -euo pipefail' at the top of bash scripts for strict error checking.
+
