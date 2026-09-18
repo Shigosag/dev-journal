@@ -301,3 +301,6 @@ Red-Green-Refactor ensures tests are written to validate expected behavior first
 ### 101. docs: perf debounce vs throttle note
 Debounce triggers after inactivity; throttle triggers at capped time intervals.
 
+### 102. docs: perf lazy load images note
+Use 'loading="lazy"' attribute on image tags to defer off-screen asset loading.
+
