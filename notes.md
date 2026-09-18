@@ -190,3 +190,6 @@ Set 'worker_connections' based on system open file limits ('ulimit -n').
 ### 64. docs: nginx rate limiting zone
 Use 'limit_req_zone' to protect sensitive authentication endpoints from brute force.
 
+### 65. docs: nginx ssl termination note
+Terminate SSL at Nginx to offload decryption overhead from backend applications.
+
