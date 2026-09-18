@@ -199,3 +199,6 @@ Terminate SSL at Nginx to offload decryption overhead from backend applications.
 ### 67. docs: git reflog recovery note
 'git reflog' tracks all HEAD movements, enabling recovery of deleted branches.
 
+### 68. docs: git worktree usage note
+'git worktree add' lets you work on multiple branches simultaneously in separate folders.
+
