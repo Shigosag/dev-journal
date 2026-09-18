@@ -85,3 +85,6 @@ Optional chaining '?.' short-circuits gracefully when accessing null or undefine
 ### 29. docs: js nullish coalescing note
 Use '??' instead of '||' to preserve valid falsy values like 0 and false.
 
+### 30. docs: js array flatMap method
+'flatMap' maps elements and flattens the result by one level in a single pass.
+
