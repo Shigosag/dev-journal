@@ -139,3 +139,6 @@ The cluster module forks worker processes to utilize multi-core CPU architecture
 ### 47. docs: css clamp function note
 'clamp(min, preferred, max)' creates fluid responsive values without media queries.
 
+### 48. docs: css flexbox gap property
+The 'gap' property adds uniform spacing between flex items without margin hacks.
+
