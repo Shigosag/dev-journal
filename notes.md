@@ -91,3 +91,6 @@ Use '??' instead of '||' to preserve valid falsy values like 0 and false.
 ### 31. docs: ts const assertions note
 Using 'as const' creates deeply readonly object and tuple literals.
 
+### 32. docs: ts utility type pick note
+'Pick<T, K>' constructs a type by picking specific keys from an existing interface.
+
