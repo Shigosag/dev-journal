@@ -49,3 +49,6 @@ Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 ### 17. docs: linux check open ports note
 'ss -tulpn' lists all listening TCP/UDP sockets with process IDs.
 
+### 18. docs: linux tar archive shortcut
+'tar -czvf archive.tar.gz /path' compresses directory using gzip.
+
