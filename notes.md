@@ -307,3 +307,7 @@ Use 'loading="lazy"' attribute on image tags to defer off-screen asset loading.
 ### 103. docs: perf virtualized lists note
 Render only visible viewport items using virtualization for arrays with 10k+ rows.
 
+
+### Auth Middleware
+Validate JWT signatures before processing request context.
+
