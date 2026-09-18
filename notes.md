@@ -268,3 +268,6 @@ Name variables for intent rather than type (e.g., 'isActiveUser' over 'flag').
 ### 90. docs: clean code pure functions note
 Pure functions without side effects are easier to test and parallelize.
 
+### 91. docs: security sanitize user input
+Never concatenate raw user input into SQL queries or raw HTML templates.
+
