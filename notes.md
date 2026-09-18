@@ -124,3 +124,6 @@ The Node.js event loop runs Timers, Pending Callbacks, Poll, Check, and Close ph
 ### 42. docs: node stream backpressure note
 Properly handle the 'drain' event to prevent memory bloat during file streams.
 
+### 43. docs: node memory leak debug note
+Use 'node --inspect' and Chrome DevTools heap snapshots to detect memory leaks.
+
