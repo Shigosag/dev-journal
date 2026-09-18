@@ -103,3 +103,6 @@ Using 'as const' creates deeply readonly object and tuple literals.
 ### 35. docs: ts satisfies operator note
 The 'satisfies' operator validates type compliance without widening literal types.
 
+### 36. docs: react useId hook note
+'useId' generates unique IDs for accessibility attributes across SSR and client.
+
