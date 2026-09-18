@@ -196,3 +196,6 @@ Terminate SSL at Nginx to offload decryption overhead from backend applications.
 ### 66. docs: git interactive rebase note
 'git rebase -i HEAD~N' allows squashing, renaming, and editing recent commits.
 
+### 67. docs: git reflog recovery note
+'git reflog' tracks all HEAD movements, enabling recovery of deleted branches.
+
