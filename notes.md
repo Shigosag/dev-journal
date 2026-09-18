@@ -208,3 +208,6 @@ Terminate SSL at Nginx to offload decryption overhead from backend applications.
 ### 70. docs: git diff stat note
 'git diff --stat' shows summary of modified files with inserted/deleted line counts.
 
+### 71. docs: docker multi-stage build note
+Multi-stage builds leave compiler toolchains behind, reducing image payload.
+
