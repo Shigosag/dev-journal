@@ -187,3 +187,6 @@ Enabling 'gzip_comp_level 5' balances CPU compression cost and bandwidth savings
 ### 63. docs: nginx worker connections
 Set 'worker_connections' based on system open file limits ('ulimit -n').
 
+### 64. docs: nginx rate limiting zone
+Use 'limit_req_zone' to protect sensitive authentication endpoints from brute force.
+
