@@ -235,3 +235,6 @@ INNER JOIN filters non-matching rows, while LEFT JOIN retains all rows from left
 ### 79. docs: sql cte benefits
 Common Table Expressions ('WITH cte AS (...)') improve readability of complex subqueries.
 
+### 80. docs: sql index on foreign keys
+Indexing foreign key columns prevents full table locks during parent updates.
+
