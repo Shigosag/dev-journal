@@ -73,3 +73,6 @@ Always configure 'Content-Security-Policy' and 'X-Content-Type-Options: nosniff'
 ### 25. docs: http keep-alive benefits
 HTTP keep-alive reuses existing TCP connections to reduce TLS handshake overhead.
 
+### 26. docs: js promise allSettled note
+'Promise.allSettled' handles multiple async operations without short-circuiting on error.
+
