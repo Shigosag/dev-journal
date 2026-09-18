@@ -118,3 +118,6 @@ React synthetic events wrap native events to provide cross-browser consistency.
 ### 40. docs: react fragments shortcut
 Use '<>...</>' syntax to return multiple elements without adding extra DOM nodes.
 
+### 41. docs: node event loop phases note
+The Node.js event loop runs Timers, Pending Callbacks, Poll, Check, and Close phases.
+
