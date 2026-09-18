@@ -25,3 +25,6 @@ Use 'docker logs -f --tail 100 <container>' to stream recent logs.
 ### 9. docs: docker inspect ip address
 'docker inspect -f {{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}} <container>' extracts IP.
 
+### 10. docs: docker container stop timeout
+'docker stop -t 30 <container>' gives tasks 30 seconds before sending SIGKILL.
+
