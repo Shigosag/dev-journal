@@ -64,3 +64,6 @@ Status 429 indicates rate limiting; check 'Retry-After' response header.
 ### 22. docs: http idempotent methods note
 GET, PUT, and DELETE are idempotent; POST and PATCH are typically non-idempotent.
 
+### 23. docs: http cache-control directives
+'no-cache' forces validation with origin server, whereas 'no-store' prevents caching entirely.
+
