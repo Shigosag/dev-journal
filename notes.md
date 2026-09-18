@@ -286,3 +286,6 @@ Never check '.env' files into version control; always use '.env.example'.
 ### 96. docs: testing unit vs integration
 Unit tests verify isolated logic; integration tests verify subsystem interactions.
 
+### 97. docs: testing mock external calls
+Always mock external third-party HTTP services in test suites to prevent flakiness.
+
