@@ -262,3 +262,6 @@ Validate input conditions immediately at the entry point of functions.
 ### 88. docs: clean code dry principle
 Do Not Repeat Yourself: extract common business rules into reusable utilities.
 
+### 89. docs: clean code meaningful names
+Name variables for intent rather than type (e.g., 'isActiveUser' over 'flag').
+
