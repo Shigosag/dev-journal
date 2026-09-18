@@ -55,3 +55,6 @@ Use the '@>' operator to query nested keys in PostgreSQL JSONB fields.
 ### 19. docs: linux disk usage summary
 'du -sh * | sort -h' shows human-readable disk usage per directory sorted.
 
+### 20. docs: linux kill process by port note
+'fuser -k 3000/tcp' kills the active process bound to port 3000.
+
