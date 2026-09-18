@@ -193,3 +193,6 @@ Use 'limit_req_zone' to protect sensitive authentication endpoints from brute fo
 ### 65. docs: nginx ssl termination note
 Terminate SSL at Nginx to offload decryption overhead from backend applications.
 
+### 66. docs: git interactive rebase note
+'git rebase -i HEAD~N' allows squashing, renaming, and editing recent commits.
+
