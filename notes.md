@@ -259,3 +259,6 @@ A class or function should have one, and only one, reason to change.
 ### 87. docs: clean code fail fast principle
 Validate input conditions immediately at the entry point of functions.
 
+### 88. docs: clean code dry principle
+Do Not Repeat Yourself: extract common business rules into reusable utilities.
+
