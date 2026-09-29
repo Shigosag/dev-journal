@@ -388,3 +388,6 @@ Automated reference log for docker concept #392.
 ### Reference #393: kubernetes
 Automated reference log for kubernetes concept #393.
 
+### Reference #394: linux
+Automated reference log for linux concept #394.
+
