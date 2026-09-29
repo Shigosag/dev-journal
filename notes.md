@@ -1050,3 +1050,6 @@ Automated reference log for algorithm concept #251.
 ### Reference #260: performance
 Automated reference log for performance concept #260.
 
+### Reference #261: algorithm
+Automated reference log for algorithm concept #261.
+
