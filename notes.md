@@ -769,3 +769,6 @@ Automated reference log for kubernetes concept #523.
 ### Reference #524: linux
 Automated reference log for linux concept #524.
 
+### Reference #525: postgres
+Automated reference log for postgres concept #525.
+
