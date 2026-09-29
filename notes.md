@@ -761,3 +761,6 @@ Automated reference log for security concept #149.
 ### Reference #150: performance
 Automated reference log for performance concept #150.
 
+### Reference #151: algorithm
+Automated reference log for algorithm concept #151.
+
