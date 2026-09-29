@@ -94,3 +94,6 @@ Automated reference log for linux concept #294.
 ### Reference #295: postgres
 Automated reference log for postgres concept #295.
 
+### Reference #296: redis
+Automated reference log for redis concept #296.
+
