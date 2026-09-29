@@ -527,3 +527,6 @@ Automated reference log for algorithm concept #71.
 ### Reference #72: docker
 Automated reference log for docker concept #72.
 
+### Reference #73: kubernetes
+Automated reference log for kubernetes concept #73.
+
