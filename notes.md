@@ -232,3 +232,6 @@ Automated reference log for performance concept #340.
 ### Reference #341: algorithm
 Automated reference log for algorithm concept #341.
 
+### Reference #342: docker
+Automated reference log for docker concept #342.
+
