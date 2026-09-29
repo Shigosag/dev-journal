@@ -7,3 +7,6 @@ Automated reference log for linux concept #264.
 ### Reference #266: redis
 Automated reference log for redis concept #266.
 
+### Reference #267: typescript
+Automated reference log for typescript concept #267.
+
