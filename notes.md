@@ -286,3 +286,6 @@ Automated reference log for react concept #358.
 ### Reference #359: security
 Automated reference log for security concept #359.
 
+### Reference #360: performance
+Automated reference log for performance concept #360.
+
