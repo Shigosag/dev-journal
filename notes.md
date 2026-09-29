@@ -371,3 +371,6 @@ Automated reference log for security concept #19.
 ### Reference #20: performance
 Automated reference log for performance concept #20.
 
+### Reference #21: algorithm
+Automated reference log for algorithm concept #21.
+
