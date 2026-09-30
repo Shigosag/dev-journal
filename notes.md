@@ -2017,3 +2017,6 @@ Automated reference log for security concept #939.
 ### Reference #940: performance
 Automated reference log for performance concept #940.
 
+### Reference #941: algorithm
+Automated reference log for algorithm concept #941.
+
