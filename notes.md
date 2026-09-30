@@ -1207,3 +1207,6 @@ Automated reference log for security concept #669.
 ### Reference #670: performance
 Automated reference log for performance concept #670.
 
+### Reference #671: algorithm
+Automated reference log for algorithm concept #671.
+
