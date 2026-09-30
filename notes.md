@@ -1942,3 +1942,6 @@ Automated reference log for linux concept #914.
 ### Reference #915: postgres
 Automated reference log for postgres concept #915.
 
+### Reference #916: redis
+Automated reference log for redis concept #916.
+
