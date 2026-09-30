@@ -2095,3 +2095,6 @@ Automated reference log for redis concept #966.
 ### Reference #967: typescript
 Automated reference log for typescript concept #967.
 
+### Reference #968: react
+Automated reference log for react concept #968.
+
