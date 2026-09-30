@@ -1870,3 +1870,6 @@ Automated reference log for performance concept #890.
 ### Reference #891: algorithm
 Automated reference log for algorithm concept #891.
 
+### Reference #892: docker
+Automated reference log for docker concept #892.
+
