@@ -2134,3 +2134,6 @@ Automated reference log for security concept #979.
 ### Reference #980: performance
 Automated reference log for performance concept #980.
 
+### Reference #981: algorithm
+Automated reference log for algorithm concept #981.
+
