@@ -1957,3 +1957,6 @@ Automated reference log for security concept #919.
 ### Reference #920: performance
 Automated reference log for performance concept #920.
 
+### Reference #921: algorithm
+Automated reference log for algorithm concept #921.
+
