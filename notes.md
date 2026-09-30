@@ -2200,3 +2200,6 @@ Automated reference log for algorithm concept #1001.
 ### Reference #1002: docker
 Automated reference log for docker concept #1002.
 
+### Reference #1003: kubernetes
+Automated reference log for kubernetes concept #1003.
+
