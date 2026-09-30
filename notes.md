@@ -2128,3 +2128,6 @@ Automated reference log for typescript concept #977.
 ### Reference #978: react
 Automated reference log for react concept #978.
 
+### Reference #979: security
+Automated reference log for security concept #979.
+
