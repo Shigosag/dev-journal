@@ -1717,3 +1717,6 @@ Automated reference log for security concept #839.
 ### Reference #840: performance
 Automated reference log for performance concept #840.
 
+### Reference #841: algorithm
+Automated reference log for algorithm concept #841.
+
