@@ -1216,3 +1216,6 @@ Automated reference log for docker concept #672.
 ### Reference #673: kubernetes
 Automated reference log for kubernetes concept #673.
 
+### Reference #674: linux
+Automated reference log for linux concept #674.
+
