@@ -1735,3 +1735,6 @@ Automated reference log for postgres concept #845.
 ### Reference #846: redis
 Automated reference log for redis concept #846.
 
+### Reference #847: typescript
+Automated reference log for typescript concept #847.
+
