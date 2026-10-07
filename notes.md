@@ -2274,3 +2274,6 @@ Automated reference log for kubernetes concept #1023.
 ### Reference #1024: linux
 Automated reference log for linux concept #1024.
 
+### Reference #1: algorithm
+Extended automated reference log for algorithm concept #1.
+
