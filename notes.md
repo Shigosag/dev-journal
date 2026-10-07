@@ -2280,3 +2280,6 @@ Extended automated reference log for algorithm concept #1.
 ### Reference #2: docker
 Extended automated reference log for docker concept #2.
 
+### Reference #3: kubernetes
+Extended automated reference log for kubernetes concept #3.
+
