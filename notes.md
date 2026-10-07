@@ -2454,3 +2454,6 @@ Extended automated reference log for security concept #59.
 ### Reference #60: performance
 Extended automated reference log for performance concept #60.
 
+### Reference #61: algorithm
+Extended automated reference log for algorithm concept #61.
+
