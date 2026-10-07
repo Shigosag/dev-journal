@@ -3090,3 +3090,6 @@ Extended automated reference log for algorithm concept #271.
 ### Reference #272: docker
 Extended automated reference log for docker concept #272.
 
+### Reference #273: kubernetes
+Extended automated reference log for kubernetes concept #273.
+
