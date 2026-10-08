@@ -5190,3 +5190,6 @@ Extended automated reference log for kubernetes concept #973.
 ### Reference #974: linux
 Extended automated reference log for linux concept #974.
 
+### Reference #975: postgres
+Extended automated reference log for postgres concept #975.
+
