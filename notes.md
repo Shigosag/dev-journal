@@ -3321,3 +3321,6 @@ Extended automated reference log for security concept #349.
 ### Reference #350: performance
 Extended automated reference log for performance concept #350.
 
+### Reference #351: algorithm
+Extended automated reference log for algorithm concept #351.
+
