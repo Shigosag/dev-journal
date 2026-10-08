@@ -4911,3 +4911,6 @@ Extended automated reference log for performance concept #880.
 ### Reference #881: algorithm
 Extended automated reference log for algorithm concept #881.
 
+### Reference #882: docker
+Extended automated reference log for docker concept #882.
+
