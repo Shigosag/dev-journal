@@ -5145,3 +5145,6 @@ Extended automated reference log for react concept #958.
 ### Reference #959: security
 Extended automated reference log for security concept #959.
 
+### Reference #960: performance
+Extended automated reference log for performance concept #960.
+
