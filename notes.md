@@ -4368,3 +4368,6 @@ Extended automated reference log for security concept #699.
 ### Reference #700: performance
 Extended automated reference log for performance concept #700.
 
+### Reference #701: algorithm
+Extended automated reference log for algorithm concept #701.
+
