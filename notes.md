@@ -5013,3 +5013,6 @@ Extended automated reference log for linux concept #914.
 ### Reference #915: postgres
 Extended automated reference log for postgres concept #915.
 
+### Reference #916: redis
+Extended automated reference log for redis concept #916.
+
