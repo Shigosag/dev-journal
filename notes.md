@@ -4617,3 +4617,6 @@ Extended automated reference log for docker concept #782.
 ### Reference #783: kubernetes
 Extended automated reference log for kubernetes concept #783.
 
+### Reference #784: linux
+Extended automated reference log for linux concept #784.
+
