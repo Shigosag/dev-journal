@@ -4998,3 +4998,6 @@ Extended automated reference log for security concept #909.
 ### Reference #910: performance
 Extended automated reference log for performance concept #910.
 
+### Reference #911: algorithm
+Extended automated reference log for algorithm concept #911.
+
