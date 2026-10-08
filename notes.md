@@ -4632,3 +4632,6 @@ Extended automated reference log for typescript concept #787.
 ### Reference #788: react
 Extended automated reference log for react concept #788.
 
+### Reference #789: security
+Extended automated reference log for security concept #789.
+
