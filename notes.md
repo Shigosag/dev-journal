@@ -3348,3 +3348,6 @@ Extended automated reference log for react concept #358.
 ### Reference #359: security
 Extended automated reference log for security concept #359.
 
+### Reference #360: performance
+Extended automated reference log for performance concept #360.
+
