@@ -5103,3 +5103,6 @@ Extended automated reference log for linux concept #944.
 ### Reference #945: postgres
 Extended automated reference log for postgres concept #945.
 
+### Reference #946: redis
+Extended automated reference log for redis concept #946.
+
