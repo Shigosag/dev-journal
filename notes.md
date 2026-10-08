@@ -4521,3 +4521,6 @@ Extended automated reference log for performance concept #750.
 ### Reference #751: algorithm
 Extended automated reference log for algorithm concept #751.
 
+### Reference #752: docker
+Extended automated reference log for docker concept #752.
+
