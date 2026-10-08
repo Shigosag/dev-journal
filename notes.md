@@ -4149,3 +4149,6 @@ Extended automated reference log for redis concept #626.
 ### Reference #627: typescript
 Extended automated reference log for typescript concept #627.
 
+### Reference #628: react
+Extended automated reference log for react concept #628.
+
