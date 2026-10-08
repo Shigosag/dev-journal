@@ -4824,3 +4824,6 @@ Extended automated reference log for algorithm concept #851.
 ### Reference #852: docker
 Extended automated reference log for docker concept #852.
 
+### Reference #853: kubernetes
+Extended automated reference log for kubernetes concept #853.
+
