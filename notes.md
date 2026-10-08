@@ -4029,3 +4029,6 @@ Extended automated reference log for postgres concept #585.
 ### Reference #586: redis
 Extended automated reference log for redis concept #586.
 
+### Reference #587: typescript
+Extended automated reference log for typescript concept #587.
+
