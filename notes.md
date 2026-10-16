@@ -5420,3 +5420,6 @@ Continuous development and architecture note regarding algorithm pattern #71.
 ### Log Entry #72: docker
 Continuous development and architecture note regarding docker pattern #72.
 
+### Log Entry #73: kubernetes
+Continuous development and architecture note regarding kubernetes pattern #73.
+
