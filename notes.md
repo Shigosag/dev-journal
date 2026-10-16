@@ -5564,3 +5564,6 @@ Continuous development and architecture note regarding security pattern #119.
 ### Log Entry #120: performance
 Continuous development and architecture note regarding performance pattern #120.
 
+### Log Entry #121: algorithm
+Continuous development and architecture note regarding algorithm pattern #121.
+
