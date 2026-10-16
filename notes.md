@@ -5474,3 +5474,6 @@ Continuous development and architecture note regarding security pattern #89.
 ### Log Entry #90: performance
 Continuous development and architecture note regarding performance pattern #90.
 
+### Log Entry #91: algorithm
+Continuous development and architecture note regarding algorithm pattern #91.
+
