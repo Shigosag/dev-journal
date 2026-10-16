@@ -5576,3 +5576,6 @@ Continuous development and architecture note regarding kubernetes pattern #123.
 ### Log Entry #124: linux
 Continuous development and architecture note regarding linux pattern #124.
 
+### Log Entry #125: postgres
+Continuous development and architecture note regarding postgres pattern #125.
+
