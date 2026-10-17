@@ -6884,3 +6884,6 @@ Continuous development and architecture note regarding performance pattern #560.
 ### Log Entry #561: algorithm
 Continuous development and architecture note regarding algorithm pattern #561.
 
+### Log Entry #562: docker
+Continuous development and architecture note regarding docker pattern #562.
+
