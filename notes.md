@@ -6620,3 +6620,6 @@ Continuous development and architecture note regarding algorithm pattern #471.
 ### Log Entry #472: docker
 Continuous development and architecture note regarding docker pattern #472.
 
+### Log Entry #473: kubernetes
+Continuous development and architecture note regarding kubernetes pattern #473.
+
