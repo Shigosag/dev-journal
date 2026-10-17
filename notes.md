@@ -7586,3 +7586,6 @@ Continuous development and architecture note regarding linux pattern #794.
 ### Log Entry #795: postgres
 Continuous development and architecture note regarding postgres pattern #795.
 
+### Log Entry #796: redis
+Continuous development and architecture note regarding redis pattern #796.
+
