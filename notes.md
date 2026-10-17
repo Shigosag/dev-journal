@@ -6407,3 +6407,6 @@ Continuous development and architecture note regarding performance pattern #400.
 ### Log Entry #401: algorithm
 Continuous development and architecture note regarding algorithm pattern #401.
 
+### Log Entry #402: docker
+Continuous development and architecture note regarding docker pattern #402.
+
