@@ -6053,3 +6053,6 @@ Continuous development and architecture note regarding docker pattern #282.
 ### Log Entry #283: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #283.
 
+### Log Entry #284: linux
+Continuous development and architecture note regarding linux pattern #284.
+
