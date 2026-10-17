@@ -7820,3 +7820,6 @@ Continuous development and architecture note regarding docker pattern #872.
 ### Log Entry #873: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #873.
 
+### Log Entry #874: linux
+Continuous development and architecture note regarding linux pattern #874.
+
