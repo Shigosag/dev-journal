@@ -5684,3 +5684,6 @@ Continuous development and architecture note regarding security pattern #159.
 ### Log Entry #160: performance
 Continuous development and architecture note regarding performance pattern #160.
 
+### Log Entry #161: algorithm
+Continuous development and architecture note regarding algorithm pattern #161.
+
