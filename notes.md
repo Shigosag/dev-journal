@@ -7211,3 +7211,6 @@ Continuous development and architecture note regarding security pattern #669.
 ### Log Entry #670: performance
 Continuous development and architecture note regarding performance pattern #670.
 
+### Log Entry #671: algorithm
+Continuous development and architecture note regarding algorithm pattern #671.
+
