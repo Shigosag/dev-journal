@@ -5609,3 +5609,6 @@ Continuous development and architecture note regarding linux pattern #134.
 ### Log Entry #135: postgres
 Continuous development and architecture note regarding postgres pattern #135.
 
+### Log Entry #136: redis
+Continuous development and architecture note regarding redis pattern #136.
+
