@@ -5984,3 +5984,6 @@ Continuous development and architecture note regarding security pattern #259.
 ### Log Entry #260: performance
 Continuous development and architecture note regarding performance pattern #260.
 
+### Log Entry #261: algorithm
+Continuous development and architecture note regarding algorithm pattern #261.
+
