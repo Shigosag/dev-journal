@@ -7004,3 +7004,6 @@ Continuous development and architecture note regarding performance pattern #600.
 ### Log Entry #601: algorithm
 Continuous development and architecture note regarding algorithm pattern #601.
 
+### Log Entry #602: docker
+Continuous development and architecture note regarding docker pattern #602.
+
