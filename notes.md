@@ -6704,3 +6704,6 @@ Continuous development and architecture note regarding security pattern #499.
 ### Log Entry #500: performance
 Continuous development and architecture note regarding performance pattern #500.
 
+### Log Entry #501: algorithm
+Continuous development and architecture note regarding algorithm pattern #501.
+
