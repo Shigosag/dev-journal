@@ -3012,3 +3012,6 @@ Continuous development and architecture note regarding kubernetes pattern #1003.
 ### Log Entry #1004: linux
 Continuous development and architecture note regarding linux pattern #1004.
 
+### Log Entry #1005: postgres
+Continuous development and architecture note regarding postgres pattern #1005.
+
