@@ -3240,3 +3240,6 @@ Continuous development and architecture note regarding security pattern #1079.
 ### Log Entry #1080: performance
 Continuous development and architecture note regarding performance pattern #1080.
 
+### Log Entry #1081: algorithm
+Continuous development and architecture note regarding algorithm pattern #1081.
+
