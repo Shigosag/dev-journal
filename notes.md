@@ -3105,3 +3105,6 @@ Continuous development and architecture note regarding linux pattern #1034.
 ### Log Entry #1035: postgres
 Continuous development and architecture note regarding postgres pattern #1035.
 
+### Log Entry #1036: redis
+Continuous development and architecture note regarding redis pattern #1036.
+
