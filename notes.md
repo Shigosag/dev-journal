@@ -4503,3 +4503,6 @@ Continuous development and architecture note regarding docker pattern #1502.
 ### Log Entry #1503: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #1503.
 
+### Log Entry #1504: linux
+Continuous development and architecture note regarding linux pattern #1504.
+
