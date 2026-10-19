@@ -5247,3 +5247,6 @@ Continuous development and architecture note regarding performance pattern #1750
 ### Log Entry #1751: algorithm
 Continuous development and architecture note regarding algorithm pattern #1751.
 
+### Log Entry #1752: docker
+Continuous development and architecture note regarding docker pattern #1752.
+
