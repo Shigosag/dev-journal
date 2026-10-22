@@ -6000,3 +6000,6 @@ Continuous development and architecture note regarding performance pattern #2000
 ### Log Entry #2001: algorithm
 Continuous development and architecture note regarding algorithm pattern #2001.
 
+### Log Entry #2002: docker
+Continuous development and architecture note regarding docker pattern #2002.
+
