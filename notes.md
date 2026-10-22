@@ -6036,3 +6036,6 @@ Continuous development and architecture note regarding docker pattern #2012.
 ### Log Entry #2013: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #2013.
 
+### Log Entry #2014: linux
+Continuous development and architecture note regarding linux pattern #2014.
+
