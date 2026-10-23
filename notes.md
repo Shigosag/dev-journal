@@ -8523,3 +8523,6 @@ Continuous development and architecture note regarding docker pattern #2842.
 ### Log Entry #2843: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #2843.
 
+### Log Entry #2844: linux
+Continuous development and architecture note regarding linux pattern #2844.
+
