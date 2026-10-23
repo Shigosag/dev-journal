@@ -8430,3 +8430,6 @@ Continuous development and architecture note regarding algorithm pattern #2811.
 ### Log Entry #2812: docker
 Continuous development and architecture note regarding docker pattern #2812.
 
+### Log Entry #2813: kubernetes
+Continuous development and architecture note regarding kubernetes pattern #2813.
+
