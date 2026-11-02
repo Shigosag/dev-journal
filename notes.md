@@ -8637,3 +8637,6 @@ Continuous development and architecture note regarding security pattern #2879.
 ### Log Entry #2880: performance
 Continuous development and architecture note regarding performance pattern #2880.
 
+### Log Entry #2882: docker
+Continuous development and architecture note regarding docker pattern #2882.
+
