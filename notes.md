@@ -9807,3 +9807,6 @@ Continuous development and architecture note regarding docker pattern #3272.
 ### Log Entry #3273: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #3273.
 
+### Log Entry #3274: linux
+Continuous development and architecture note regarding linux pattern #3274.
+
