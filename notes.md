@@ -9030,3 +9030,6 @@ Continuous development and architecture note regarding docker pattern #3012.
 ### Log Entry #3013: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #3013.
 
+### Log Entry #3014: linux
+Continuous development and architecture note regarding linux pattern #3014.
+
