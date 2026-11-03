@@ -11325,3 +11325,6 @@ Continuous development and architecture note regarding security pattern #3779.
 ### Log Entry #3780: performance
 Continuous development and architecture note regarding performance pattern #3780.
 
+### Log Entry #3781: algorithm
+Continuous development and architecture note regarding algorithm pattern #3781.
+
