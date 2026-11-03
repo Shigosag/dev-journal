@@ -11394,3 +11394,6 @@ Continuous development and architecture note regarding docker pattern #3802.
 ### Log Entry #3803: kubernetes
 Continuous development and architecture note regarding kubernetes pattern #3803.
 
+### Log Entry #3804: linux
+Continuous development and architecture note regarding linux pattern #3804.
+
