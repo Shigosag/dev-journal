@@ -11388,3 +11388,6 @@ Continuous development and architecture note regarding performance pattern #3800
 ### Log Entry #3801: algorithm
 Continuous development and architecture note regarding algorithm pattern #3801.
 
+### Log Entry #3802: docker
+Continuous development and architecture note regarding docker pattern #3802.
+
