@@ -11601,3 +11601,6 @@ Continuous development and architecture note regarding algorithm pattern #3871.
 ### Log Entry #3872: docker
 Continuous development and architecture note regarding docker pattern #3872.
 
+### Log Entry #3873: kubernetes
+Continuous development and architecture note regarding kubernetes pattern #3873.
+
