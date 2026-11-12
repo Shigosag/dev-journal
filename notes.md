@@ -5106,3 +5106,6 @@ Continuous development and architecture note regarding kubernetes pattern #1703.
 ### Log Entry #1704: linux
 Continuous development and architecture note regarding linux pattern #1704.
 
+### Log Entry #1705: postgres
+Continuous development and architecture note regarding postgres pattern #1705.
+
